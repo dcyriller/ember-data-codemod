@@ -25,7 +25,7 @@
     "eslint-plugin-prettier": "^3.1.4",
     "jest": "^24.9.0",
     "lerna-changelog": "^0.8.3",
-    "prettier": "^1.19.1"
+    "prettier": "^2.0.5"
   },
   "jest": {
     "testEnvironment": "node"
